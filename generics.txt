@@ -106,6 +106,7 @@ test();
   public class MyGenericClass2{
   private k key;
   private v value;
+  public class MyGenericClass2<k,v>
   super();
   this.key = key;
   this.Value = Value;
